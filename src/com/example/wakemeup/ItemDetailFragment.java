@@ -14,6 +14,8 @@ import com.example.wakemeup.dummy.DummyContent;
  * contained in a {@link ItemListActivity} in two-pane mode (on tablets) or a
  * {@link ItemDetailActivity} on handsets.
  */
+
+
 public class ItemDetailFragment extends Fragment {
 	/**
 	 * The fragment argument representing the item ID that this fragment
